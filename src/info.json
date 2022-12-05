@@ -1,0 +1,11 @@
+{
+  "name": "AmmoTurrets",
+  "factorio_version" : "1.1",
+  "version": "0.0.1",
+  "title": "Ammo Turrets",
+  "author": "jaenster",
+  "dependencies" :
+  [
+    "base >= 1.1.1"
+  ]
+}
